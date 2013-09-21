@@ -16,4 +16,4 @@ file named "9gag.csv".
 9gag-scraper is built on top of the awesome [Scrapy](https://github.com/scrapy/scrapy)
 
 Note: the project is named "ninegag" because Scrapy projects do not support
-project names starting with numbers.
+names starting with numbers.
